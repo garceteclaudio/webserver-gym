@@ -1,7 +1,0 @@
-# Restserver Web Page
-
-**Instalacion:** ```npm install```
-
-**Ejecucion:** ```npm start```
-
-**URL:** ```http://localhost:8081/```
